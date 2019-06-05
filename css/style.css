@@ -1,0 +1,31 @@
+table {
+    border: 15px solid #3e3e3e;
+    margin: 0 auto;
+    table-layout: fixed;
+    height: 720px;
+    width: 520px;
+}
+
+table td {
+    border: 9px solid #3e3e3e;
+}
+
+.white-bg {
+    background-color: #f3f3f3;
+}
+
+.black-bg {
+    background-color: #000000;
+}
+
+.blue-bg {
+    background-color: #0d7fbe;
+}
+
+.yellow-bg {
+    background-color: #fae317;
+}
+
+.red-bg {
+    background-color: #f50f0f;
+}
